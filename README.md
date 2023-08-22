@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Canvas Course Manager](https://github.com/tl-its-umich-edu/canvas-course-manager-next)
+<!-- 🔭 I’m currently working on [Canvas Course Manager](https://github.com/tl-its-umich-edu/canvas-course-manager-next) -->
 
 <!--
 **chrisrrowland/chrisrrowland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
